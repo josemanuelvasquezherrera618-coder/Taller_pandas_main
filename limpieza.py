@@ -1,6 +1,5 @@
 import pandas as pd
 
-
 def _quitar_espacios(df):
     df = df.copy()
     for col in df.select_dtypes(include=["object", "string"]).columns:
