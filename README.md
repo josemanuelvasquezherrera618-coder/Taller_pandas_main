@@ -4,14 +4,15 @@
 
 ## Negocios y respuestas
 
-A continuación se presentan los resultados del análisis de negocio, resaltando los elementos con mejor desempeño en cada ámbito.
+A continuación se presentan los resultados detallados del análisis de negocio, resaltando los elementos con mejor desempeño y las comparativas de valor.
 
-### 1. Categoría con Mayor Desempeño (Ingresos)
-| Categoría | Resultado |
+### 1. Categoría y Productos más Vendidos
+| Ámbito | Resultado |
 | :--- | :--- |
-| **Categoría Líder** | La categoría que genera más ingresos totales |
+| **Categoría Líder** | La categoría que genera la mayor facturación total |
+| **Productos Top** | Los artículos con mayor volumen de ventas |
 
-**Argumento:** Para determinar la categoría más rentable, se sumaron todos los ingresos de la columna `total` agrupados por categoría. Esto nos permite identificar qué línea de productos es la que sostiene la mayor parte de la facturación de la empresa.
+**Argumento:** Al analizar los ingresos por categoría, identificamos el sector del catálogo que es más atractivo para el cliente. Esto nos permite enfocar las estrategias de marketing en los productos que ya tienen una alta demanda y generan el flujo de caja principal de la empresa.
 
 ---
 
@@ -20,16 +21,17 @@ A continuación se presentan los resultados del análisis de negocio, resaltando
 | :--- | :--- |
 | **Canal Ganador** | El canal con el monto más alto de ventas |
 
-**Argumento:** Se analizó el volumen de ingresos por canal de venta. Este resultado es clave para saber a través de qué medio (físico o digital) llegan los clientes que realizan las compras más costosas o frecuentes.
+**Argumento:** Se analizó el volumen de ingresos por canal de venta. Este resultado es clave para saber a través de qué medio llegan los clientes que realizan las compras más costosas, permitiendo optimizar la infraestructura de ese canal específico.
 
 ---
 
-### 3. Comparativa de Segmentos de Clientes
-| Segmento | Desempeño |
+### 3. Comparativa: Clientes VIP vs. Regulares
+| Segmento | Valor Generado |
 | :--- | :--- |
-| **VIP vs Regular** | Análisis de gasto promedio por cliente |
+| **Clientes VIP** | Mayor gasto promedio por persona |
+| **Clientes Regulares** | Mayor volumen total de clientes |
 
-**Argumento:** Dado que la cantidad de clientes regulares es mayor a la de VIP, no se compararon los totales, sino los promedios. El objetivo es saber si un cliente VIP, individualmente, aporta más valor económico que un cliente regular.
+**Argumento:** El análisis revela que, aunque hay más clientes regulares, los **clientes VIP generan un valor significativamente más alto por individuo**. Esto demuestra que la estrategia de fidelización VIP es efectiva, ya que un menor número de personas está aportando una cantidad de ingresos proporcionalmente más alta.
 
 ---
 
@@ -38,13 +40,13 @@ A continuación se presentan los resultados del análisis de negocio, resaltando
 | :--- | :--- |
 | **Más Utilizado** | El método con mayor cantidad de transacciones |
 
-**Argumento:** Se realizó un conteo de frecuencia sobre los métodos de pago. Esto nos indica la preferencia del consumidor y ayuda a optimizar las pasarelas de pago donde se concentra la mayoría de las operaciones.
+**Argumento:** Se realizó un conteo de frecuencia sobre los métodos de pago. Esto nos indica la comodidad del consumidor y nos permite priorizar la estabilidad y seguridad de la pasarela de pago más utilizada.
 
 ---
 
 ### 5. Top 5 Clientes con Mejor Desempeño
-| Ranking | Métrica |
+| Ranking | Perfil del Cliente |
 | :--- | :--- |
-| **Top 5 Clientes** | Mayor número de compras y gasto total |
+| **Top 5 Clientes** | Personas con más compras y mayor lealtad |
 
-**Argumento:** Se identificaron los clientes más leales y rentables basándose en la cantidad de veces que han comprado. En caso de empate en cantidad, se utilizó el gasto total como criterio de desempate para premiar al cliente que más invirtió.
+**Argumento:** Se identificaron las personas más valiosas para el negocio. Estas personas no solo compran más veces, sino que mantienen un gasto total elevado. Este grupo representa el núcleo de clientes leales que deben ser mantenidos mediante beneficios exclusivos.
